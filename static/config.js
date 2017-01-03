@@ -2,7 +2,7 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o";
+var spreadsheetId = "1zUZ5t8v6ccSudSy_v4at3B9bbJoRbwEXFW5Z7teygeM";
 
 // ***********************************************************************************
 // Position of Breedables, Shinies and Wants worksheet
@@ -15,13 +15,13 @@ var wantsWorksheet = 3;
 // ***********************************************************************************
 // Your FC and IGN
 // ***********************************************************************************
-var friendCode = "4597-0550-9417";
-var inGameName = "Richie";
+var friendCode = "1951-1955-8966";
+var inGameName = "John";
 
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
 // ***********************************************************************************
-var contactUrl = "http://reddit.com/u/richi3f";
+var contactUrl = "http://reddit.com/u/jnrust";
 
 // ***********************************************************************************
 // URL of your PGL trainer icon (optional)
