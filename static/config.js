@@ -5,13 +5,12 @@
 var spreadsheetId = "1zUZ5t8v6ccSudSy_v4at3B9bbJoRbwEXFW5Z7teygeM";
 
 // ***********************************************************************************
-// Position of Breedables, Shinies, Comp and Wants worksheet
+// Position of Breedables, Shinies, and Wants worksheet
 // ***********************************************************************************
 // If you don't have one worksheet, set the value to -1 to disable it
 var breedablesWorksheet = 1;
 var shiniesWorksheet = 2;
-var compWorksheet = 3;
-var wantsWorksheet = 4;
+var wantsWorksheet = 3;
 
 // ***********************************************************************************
 // Your FC and IGN
